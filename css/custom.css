@@ -1,0 +1,65 @@
+body{
+
+}
+.header a:hover{
+	color: #fff;
+}
+.computers{
+	background: url('../img/computers.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 800px;
+	 max-width: 100%;
+	overflow-x: hidden;
+
+	color: #fff;
+	word-spacing: 5px;
+	padding-top: 200px;
+	padding-left: 200px;
+	
+	
+}
+#About{background-color: #4a4945;
+  color: white;
+  padding-top:50px;
+  margin-top: -33px;
+
+
+	
+}
+#About .fa{
+	color: #fff;
+}
+#About span{
+	padding: 10px 20px 10px 20px;
+
+}
+#About hr{
+	border-width: 3px;
+	margin-top: 6px;  
+}
+#Skills span{
+	padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+	border-width: 3px;
+	margin-top: 6px;}
+#Experience { 
+	padding-top: 50px;
+	background-color: #ccc;
+	margin-top: 15px; 
+	
+}
+.sizepra{
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+
+
+#Skills{
+	margin-top: 80px;
+}
+.contact{
+	margin left: 800px; 
+}
